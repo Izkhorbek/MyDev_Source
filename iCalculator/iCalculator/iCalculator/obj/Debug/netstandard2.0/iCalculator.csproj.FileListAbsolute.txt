@@ -1,0 +1,15 @@
+E:\.NET Class\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.deps.json
+E:\.NET Class\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.dll
+E:\.NET Class\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\ref\iCalculator.dll
+E:\.NET Class\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.pdb
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.csproj.AssemblyReference.cache
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.AssemblyInfoInputs.cache
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.AssemblyInfo.cs
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.csproj.CoreCompileInputs.cache
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.dll
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\ref\iCalculator.dll
+E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.pdb
