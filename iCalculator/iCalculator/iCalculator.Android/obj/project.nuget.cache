@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e5ZNtPj6mYWPZaOopp3FkwTKTIy42QVJ8t6ZrqjO1lkvFxaePjpGFD3W6iamfiEPp0knd5kTTpFXG/YJ425+aw==",
+  "dgSpecHash": "LPRGfu7WliF/ymAIqVUzlfkSVWiCoM21v/0wEPsRq+Z1+cC6TA40gMKZXOf3WLuOC68+p8Lu7RfGNjVXNR5C8A==",
   "success": true,
-  "projectFilePath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator.Android\\iCalculator.Android.csproj",
+  "projectFilePath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator.Android\\iCalculator.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Izhorbek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

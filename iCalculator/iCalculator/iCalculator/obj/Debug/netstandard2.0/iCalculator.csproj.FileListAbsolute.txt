@@ -13,3 +13,18 @@ E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\XamlC
 E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.dll
 E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\ref\iCalculator.dll
 E:\.NET Class\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.pdb
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.deps.json
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\ref\iCalculator.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\bin\Debug\netstandard2.0\iCalculator.pdb
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.csproj.AssemblyReference.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.AssemblyInfoInputs.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.AssemblyInfo.cs
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.csproj.CoreCompileInputs.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\ref\iCalculator.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\iCalculator\iCalculator\iCalculator\obj\Debug\netstandard2.0\iCalculator.pdb

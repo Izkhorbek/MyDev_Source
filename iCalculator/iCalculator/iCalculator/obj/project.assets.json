@@ -534,26 +534,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Izhorbek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj",
+      "projectUniqueName": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj",
       "projectName": "iCalculator",
-      "projectPath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator\\obj\\",
+      "projectPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj",
+      "packagesPath": "C:\\Users\\Izhorbek\\.nuget\\packages\\",
+      "outputPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Izhorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -605,7 +602,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

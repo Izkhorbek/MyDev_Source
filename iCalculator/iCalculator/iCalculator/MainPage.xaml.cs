@@ -5,15 +5,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Essentials;
 
 [assembly:ExportFont("digital-7.ttf")]
 namespace iCalculator
 {
     public partial class MainPage : ContentPage
     {
+        public System.Windows.Input.ICommand TapCommand => new Command<string>(OpenBrowser);
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = this;
         }
         private decimal firstNumber;
         private string OperationName;
@@ -133,6 +136,20 @@ namespace iCalculator
             isOperationClicked = false;
 
             return result;
+        }
+
+        private void ImageID_Clicked(object sender, EventArgs e)
+        {
+            // Put here link to enter
+            var button = sender as Button;
+
+            (sender as Button).Text = "Yangi Reklama tanlash.";
+            button.ImageSource = "new_icon.png";
+                
+        }
+        public void OpenBrowser(string url)
+        {
+            Launcher.OpenAsync(url);
         }
     }
 }

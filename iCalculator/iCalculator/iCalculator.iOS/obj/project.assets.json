@@ -991,27 +991,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Izhorbek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator.iOS\\iCalculator.iOS.csproj",
+      "projectUniqueName": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator.iOS\\iCalculator.iOS.csproj",
       "projectName": "iCalculator.iOS",
-      "projectPath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator.iOS\\iCalculator.iOS.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator.iOS\\obj\\",
+      "projectPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator.iOS\\iCalculator.iOS.csproj",
+      "packagesPath": "C:\\Users\\Izhorbek\\.nuget\\packages\\",
+      "outputPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Izhorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1025,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj": {
-              "projectPath": "E:\\.NET Class\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj"
+            "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj": {
+              "projectPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\iCalculator\\iCalculator\\iCalculator\\iCalculator.csproj"
             }
           }
         }

@@ -179,10 +179,19 @@
                         Padding="35"/>
             <Button  Margin ="0,50,0,-30"
                      x:Name="ImageID"
+                     Clicked="ImageID_Clicked"
                      Grid.Row="5"
                      Grid.Column="0"
-                     Grid.ColumnSpan="4"/>
-            <ImageButton Source=""/>
+                     Grid.ColumnSpan="4"
+                     Text="Reklama: Uzmovi saytga o'tish!"
+                     FontAttributes="Italic"
+                     FontFamily=""
+                     ImageSource="icalc.png"
+                     VerticalOptions="Center"
+                     Command="{Binding TapCommand } "
+                     CommandParameter="http://uzmovi.com/tarjima-kinolari/4966-brahmastra-yoruglik-va-zulmat-jangi-premyera-hind-kino-daxshatlu-qurol.html"/>
+            
+
         </Grid>
 
 
