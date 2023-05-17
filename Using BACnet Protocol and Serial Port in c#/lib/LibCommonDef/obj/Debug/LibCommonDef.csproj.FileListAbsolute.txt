@@ -1,0 +1,63 @@
+D:\TrackAnalysisServer\Bin\Debug\LibCommonDef.deps.json
+D:\TrackAnalysisServer\Bin\Debug\LibCommonDef.dll
+D:\TrackAnalysisServer\Bin\Debug\LibCommonDef.pdb
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.AssemblyReference.cache
+D:\Izhor Doc\TestLib\bin\LibCommonDef.deps.json
+D:\Izhor Doc\TestLib\bin\LibCommonDef.dll
+D:\Izhor Doc\TestLib\bin\LibCommonDef.pdb
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+D:\Izhor Doc\TestLib\bin\Debug\LibCommonDef.deps.json
+D:\Izhor Doc\TestLib\bin\Debug\LibCommonDef.dll
+D:\Izhor Doc\TestLib\bin\Debug\LibCommonDef.pdb
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.AssemblyReference.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+D:\Company File\Incheon_BACnet\bin\Debug\LibCommonDef.deps.json
+D:\Company File\Incheon_BACnet\bin\Debug\LibCommonDef.dll
+D:\Company File\Incheon_BACnet\bin\Debug\LibCommonDef.pdb
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\Company File\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\bin\Debug\LibCommonDef.deps.json
+C:\Project\Incheon_BACnet\bin\Debug\LibCommonDef.dll
+C:\Project\Incheon_BACnet\bin\Debug\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.AssemblyReference.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\bin\Debug\LibCommonDef.deps.json
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\bin\Debug\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\bin\Debug\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Debug\LibCommonDef.deps.json
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Debug\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Debug\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\bin\Debug\LibCommonDef.deps.json
+D:\Incheon_Subway\Incheon_BACnet\bin\Debug\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\bin\Debug\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb

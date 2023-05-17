@@ -1,0 +1,96 @@
+D:\TrackAnalysisServer\Bin\Release\LibCommonDef.deps.json
+D:\TrackAnalysisServer\Bin\Release\LibCommonDef.dll
+D:\TrackAnalysisServer\Bin\Release\LibCommonDef.pdb
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\TrackAnalysisServer\Lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\Izhor Doc\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\Izhor Doc\C# File\TestLib\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\bin\Release\LibCommonDef.deps.json
+D:\Incheon_Subway\Incheon_BACnet\bin\Release\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\bin\Release\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\bin\Release\LibCommonDef.deps.json
+C:\Project\Incheon_BACnet\bin\Release\LibCommonDef.dll
+C:\Project\Incheon_BACnet\bin\Release\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+C:\Project\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Release\LibCommonDef.deps.json
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Release\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\lib\bin\Release\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+F:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.deps.json
+F:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.dll
+F:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.pdb
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+F:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.deps.json
+D:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.dll
+D:\Incheon Smart\Incheon_BACnet\lib\bin\Release\LibCommonDef.pdb
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\Incheon Smart\Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+C:\Project\Old4_Incheon_BACnet\lib\bin\Release\LibCommonDef.deps.json
+C:\Project\Old4_Incheon_BACnet\lib\bin\Release\LibCommonDef.dll
+C:\Project\Old4_Incheon_BACnet\lib\bin\Release\LibCommonDef.pdb
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+C:\Project\Old4_Incheon_BACnet\bin\Release\LibCommonDef.deps.json
+C:\Project\Old4_Incheon_BACnet\bin\Release\LibCommonDef.dll
+C:\Project\Old4_Incheon_BACnet\bin\Release\LibCommonDef.pdb
+C:\Project\Old4_Incheon_BACnet\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+C:\Project\Incheon_BACnet_220504\bin\Release\LibCommonDef.deps.json
+C:\Project\Incheon_BACnet_220504\bin\Release\LibCommonDef.dll
+C:\Project\Incheon_BACnet_220504\bin\Release\LibCommonDef.pdb
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+C:\Project\Incheon_BACnet_220504\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\bin\Release\LibCommonDef.deps.json
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\bin\Release\LibCommonDef.dll
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\bin\Release\LibCommonDef.pdb
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
+D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
