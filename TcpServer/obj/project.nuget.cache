@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqbyQoY0rhCR91Cx7u59P70m8OqiLXXk2kA1FTwKE8MmCNJ7ycRcRWeAHaJIFBv+i4WSJ7gVdEyUs7jAh2xUzg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Izhorbek\\.nuget\\packages\\ndesk.options\\0.2.1\\ndesk.options.0.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NDesk.Options 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NDesk.Options",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

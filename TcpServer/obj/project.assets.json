@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "NDesk.Options/0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/NDesk.Options.dll": {}
+        },
+        "runtime": {
+          "lib/NDesk.Options.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NDesk.Options/0.2.1": {
+      "sha512": "1bkSjNET5wxY+kZfTVdstkcDYF98mEbxWrG5FxJG5MTjQ0d9E2ezNfK/InvsVB50P0TiXO2ovD/SB/57EH6Zmw==",
+      "type": "package",
+      "path": "ndesk.options/0.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/NDesk.Options.dll",
+        "ndesk.options.0.2.1.nupkg.sha512",
+        "ndesk.options.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "NDesk.options >= 0.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Izhorbek\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+      "projectName": "TcpServer",
+      "projectPath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+      "packagesPath": "C:\\Users\\Izhorbek\\.nuget\\packages\\",
+      "outputPath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Izhorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "NDesk.options": {
+            "target": "Package",
+            "version": "[0.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NDesk.Options 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NDesk.Options",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
