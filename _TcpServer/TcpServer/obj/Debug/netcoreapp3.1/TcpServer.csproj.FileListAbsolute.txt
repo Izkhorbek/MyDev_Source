@@ -1,0 +1,14 @@
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.AssemblyInfoInputs.cache
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.AssemblyInfo.cs
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.csproj.CoreCompileInputs.cache
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.exe
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.deps.json
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.runtimeconfig.json
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.runtimeconfig.dev.json
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.dll
+D:\.Net Dasturlar\TcpServer\TcpServer\bin\Debug\netcoreapp3.1\TcpServer.pdb
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.dll
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.pdb
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.genruntimeconfig.cache
+D:\.Net Dasturlar\TcpServer\TcpServer\obj\Debug\netcoreapp3.1\TcpServer.csproj.AssemblyReference.cache

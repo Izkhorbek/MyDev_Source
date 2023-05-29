@@ -18,3 +18,23 @@ D:\.Net Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.genruntime
 D:\.Net Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\NDesk.Options.dll
 D:\.Net Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.csproj.CopyComplete
 D:\.Net Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.csproj.AssemblyReference.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.dll.config
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.AssemblyInfoInputs.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.AssemblyInfo.cs
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\ref\TcpServer.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.pdb
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.exe
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.dll.config
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.deps.json
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.runtimeconfig.json
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.runtimeconfig.dev.json
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\ref\TcpServer.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\TcpServer.pdb
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\bin\Debug\net5.0\NDesk.Options.dll
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.csproj.CopyComplete
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.genruntimeconfig.cache
+D:\.Net Xamarin Dasturlar\DavoEnc_Source\TcpServer\obj\Debug\net5.0\TcpServer.csproj.AssemblyReference.cache

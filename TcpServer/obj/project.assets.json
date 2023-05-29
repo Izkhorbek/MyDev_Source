@@ -38,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+      "projectUniqueName": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
       "projectName": "TcpServer",
-      "projectPath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+      "projectPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
       "packagesPath": "C:\\Users\\Izhorbek\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\obj\\",
+      "outputPath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\TcpServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Izhorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",

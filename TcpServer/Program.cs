@@ -122,31 +122,31 @@ namespace TcpServer
             Console.WriteLine("Done!");
 
 
-            //Start the multicasting thread
+            ////Start the multicasting thread
             bool multicasting = true;
-            var multicaster = Task.Factory.StartNew(() =>
-            {
-                //Prepare message to multicast
-                byte[] message = new byte[messageSize];
+            //var multicaster = Task.Factory.StartNew(() =>
+            //{
+            //    //Prepare message to multicast
+            //    byte[] message = new byte[messageSize];
 
-                //Multicasting  loop
-                while(multicasting)
-                {
-                    var start = DateTime.UtcNow;
-                    //for (int i = 0; i < messagesRate; i++)
-                       // server.Multicast(message);
+            //    //Multicasting  loop
+            //    while(multicasting)
+            //    {
+            //        var start = DateTime.UtcNow;
+            //        //for (int i = 0; i < messagesRate; i++)
+            //           // server.Multicast(message);
                     
-                    var end = DateTime.UtcNow;
+            //        var end = DateTime.UtcNow;
 
-                    // Sleep for remaining time or yield
-                    var milliseconds = (int)(end - start).TotalMilliseconds;
+            //        // Sleep for remaining time or yield
+            //        var milliseconds = (int)(end - start).TotalMilliseconds;
 
-                    if (milliseconds < 1000)
-                        Thread.Sleep(1000 - milliseconds);
-                    else
-                        Thread.Yield();
-                }   
-            });
+            //        if (milliseconds < 1000)
+            //            Thread.Sleep(1000 - milliseconds);
+            //        else
+            //            Thread.Yield();
+            //    }   
+            //});
 
             Console.Write("Press Enter to stop the server or `!` to restart the server...");
 
@@ -168,7 +168,7 @@ namespace TcpServer
 
             //Stop the multicasting thread
             multicasting = false;
-            multicaster.Wait();
+          //  multicaster.Wait();
 
             //Stop the server
             Console.Write("Server stopping...");

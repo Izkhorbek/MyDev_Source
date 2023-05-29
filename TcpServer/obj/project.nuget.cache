@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mqbyQoY0rhCR91Cx7u59P70m8OqiLXXk2kA1FTwKE8MmCNJ7ycRcRWeAHaJIFBv+i4WSJ7gVdEyUs7jAh2xUzg==",
+  "dgSpecHash": "4JnjbAGrD8KZNfoCfx7KrZvTBh4xQ6Qm//M++WPE5285sRs6dTPnY54BtrlZbkTUaKSDM9tZ6I70De1gfeUWyw==",
   "success": true,
-  "projectFilePath": "D:\\.Net Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
+  "projectFilePath": "D:\\.Net Xamarin Dasturlar\\DavoEnc_Source\\TcpServer\\TcpServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izhorbek\\.nuget\\packages\\ndesk.options\\0.2.1\\ndesk.options.0.2.1.nupkg.sha512"
   ],
