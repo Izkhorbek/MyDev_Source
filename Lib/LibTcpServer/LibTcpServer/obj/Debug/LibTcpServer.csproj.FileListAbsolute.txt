@@ -1,0 +1,6 @@
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\obj\Debug\LibTcpServer.csproj.AssemblyReference.cache
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\obj\Debug\LibTcpServer.csproj.CoreCompileInputs.cache
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\bin\Debug\LibTcpServer.dll
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\bin\Debug\LibTcpServer.pdb
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\obj\Debug\LibTcpServer.dll
+D:\.Net Dasturlar\DavoEnc_Source\Lib\LibTcpServer\LibTcpServer\obj\Debug\LibTcpServer.pdb
