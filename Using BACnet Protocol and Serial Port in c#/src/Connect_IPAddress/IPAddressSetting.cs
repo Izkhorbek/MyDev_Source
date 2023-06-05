@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Incheon_BACnet.Connect_IPAddress
+namespace Subway_BACnet.Connect_IPAddress
 {
     public class Incheon_Trans_Subway
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Incheon_BACnet", "src\Incheon_BACnet.csproj", "{1BEA926C-D568-4FF5-9E7D-33B5AA67E47B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subway_BACnet", "src\Subway_BACnet.csproj", "{1BEA926C-D568-4FF5-9E7D-33B5AA67E47B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibCommonDef", "lib\LibCommonDef\LibCommonDef.csproj", "{F6D6204F-CBC6-4016-BFDC-A25EB1B86AB9}"
 EndProject

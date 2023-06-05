@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Incheon_BACnet.Connect_IPAddress;
+using Subway_BACnet.Connect_IPAddress;
 
 
-namespace Incheon_BACnet
+namespace Subway_BACnet
 {
     public class SettingInfo
     {
@@ -22,13 +22,6 @@ namespace Incheon_BACnet
         public HuenSoft_Server HuenSoft_Server;
         public JBT_Server JBT_Server;
         public SerialPortAdr SerialPortAdr;
-
-        //public bool IsOk()
-        //{
-        //    if ((Incheon_Trans_Subway == null) || string.IsNullOrEmpty(Incheon_Trans_Subway.IPAddress) || string.IsNullOrEmpty(Incheon_Trans_Subway.IPAddress)
-        //            ) return false;
-
-        //    return true;
-        //}
+     
     }
 }

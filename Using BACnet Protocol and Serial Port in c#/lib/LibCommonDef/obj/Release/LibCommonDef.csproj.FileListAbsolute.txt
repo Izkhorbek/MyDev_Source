@@ -94,3 +94,13 @@ D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommo
 D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.dll
 D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.pdb
 D:\Incheon_Subway\[4]Incheon_BACnet_220509\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Release\LibCommonDef.deps.json
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Release\LibCommonDef.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Release\LibCommonDef.pdb
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.AssemblyReference.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfoInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.AssemblyInfo.cs
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Release\LibCommonDef.pdb

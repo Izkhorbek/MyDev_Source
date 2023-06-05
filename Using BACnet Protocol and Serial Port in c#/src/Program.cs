@@ -4,7 +4,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Incheon_BACnet
+namespace Subway_BACnet
 {
     class Program : SingletonObj<Program>
     {
@@ -19,8 +19,8 @@ namespace Incheon_BACnet
         static void Main(string[] args)
         {
 
-            LogWriter.Instance.AppName = "Incheon_BACnet";
-            LogWriter.Instance.Write("Incheon_BACnet has started.");
+            LogWriter.Instance.AppName = "Subway_BACnet";
+            LogWriter.Instance.Write("Subway_BACnet has started.");
 
             string fileName = Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location) + "\\setting\\setting_BACnet.xml";
 

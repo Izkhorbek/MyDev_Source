@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Incheon_Subway\\[4]Incheon_BACnet_220509\\lib\\LibCommonDef\\LibCommonDef.csproj": {}
+    "D:\\.Net Dasturlar\\MyDev_Source\\Using BACnet Protocol and Serial Port in c#\\lib\\LibCommonDef\\LibCommonDef.csproj": {}
   },
   "projects": {
-    "D:\\Incheon_Subway\\[4]Incheon_BACnet_220509\\lib\\LibCommonDef\\LibCommonDef.csproj": {
+    "D:\\.Net Dasturlar\\MyDev_Source\\Using BACnet Protocol and Serial Port in c#\\lib\\LibCommonDef\\LibCommonDef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Incheon_Subway\\[4]Incheon_BACnet_220509\\lib\\LibCommonDef\\LibCommonDef.csproj",
+        "projectUniqueName": "D:\\.Net Dasturlar\\MyDev_Source\\Using BACnet Protocol and Serial Port in c#\\lib\\LibCommonDef\\LibCommonDef.csproj",
         "projectName": "LibCommonDef",
-        "projectPath": "D:\\Incheon_Subway\\[4]Incheon_BACnet_220509\\lib\\LibCommonDef\\LibCommonDef.csproj",
-        "packagesPath": "C:\\Users\\Davo\\.nuget\\packages\\",
-        "outputPath": "D:\\Incheon_Subway\\[4]Incheon_BACnet_220509\\lib\\LibCommonDef\\obj\\",
+        "projectPath": "D:\\.Net Dasturlar\\MyDev_Source\\Using BACnet Protocol and Serial Port in c#\\lib\\LibCommonDef\\LibCommonDef.csproj",
+        "packagesPath": "C:\\Users\\Izhorbek\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net Dasturlar\\MyDev_Source\\Using BACnet Protocol and Serial Port in c#\\lib\\LibCommonDef\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Davo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Izhorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

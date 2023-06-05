@@ -61,3 +61,12 @@ D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.Assembl
 D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
 D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
 D:\Incheon_Subway\Incheon_BACnet\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\LibCommonDef.deps.json
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\LibCommonDef.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\LibCommonDef.pdb
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfoInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.AssemblyInfo.cs
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.csproj.CoreCompileInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\lib\LibCommonDef\obj\Debug\LibCommonDef.pdb

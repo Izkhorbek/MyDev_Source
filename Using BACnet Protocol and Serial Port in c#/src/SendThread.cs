@@ -4,7 +4,7 @@ using System.Text;
 using System.Threading;
 using LibCommonDef;
 
-namespace Incheon_BACnet
+namespace Subway_BACnet
 {
     public delegate void SendData(List<byte> list);
     public class SendThread

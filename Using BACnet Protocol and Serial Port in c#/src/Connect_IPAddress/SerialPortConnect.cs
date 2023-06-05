@@ -5,7 +5,7 @@ using System.IO.Ports;
 using LibCommonDef;
 using System.Threading.Tasks;
 
-namespace Incheon_BACnet.Connect_IPAddress
+namespace Subway_BACnet.Connect_IPAddress
 {
    public class SerialPortConnect
     {

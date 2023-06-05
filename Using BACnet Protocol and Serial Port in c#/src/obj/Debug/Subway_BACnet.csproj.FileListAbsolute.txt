@@ -1,0 +1,14 @@
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.exe
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.deps.json
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.runtimeconfig.json
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.runtimeconfig.dev.json
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\bin\Debug\Subway_BACnet.pdb
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.AssemblyInfoInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.AssemblyInfo.cs
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.csproj.CoreCompileInputs.cache
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.csproj.CopyComplete
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.dll
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.pdb
+D:\.Net Dasturlar\MyDev_Source\Using BACnet Protocol and Serial Port in c#\src\obj\Debug\Subway_BACnet.genruntimeconfig.cache

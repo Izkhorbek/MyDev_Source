@@ -2,71 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Incheon_BACnet.Connect_IPAddress
+namespace Subway_BACnet.Connect_IPAddress
 {
-    public enum eDeviceID
-    {
-        GY_MECH_110 = 8211,
-        BCH_AHU_L_112 = 8231,
-        BCH_AHU_R_112 = 8232,
-        IH_AHU_R_113 = 8242,
-        KEAS_B1_AHU_L_114 = 8251,
-        KEAS_B2_AHU_L_114 = 8252,
-        KEAS_B2_AHU_R_114 = 8253,
-        ICKD_B1_AHU_L_115 = 8261,
-        ICKD_B2_AHU_L_115 = 8262,
-        ICKD_B2_AHU_R_115 = 8263,
-        JJ_AHU_L_116 = 8271,
-        JJ_AHU_R_116 = 8272,
-        KALS_AHU_L_117 = 8281,
-        KALS_AHU_R_117 = 8282,
-        BPOFF_AHU_L_118 = 8291,
-        BPOFF_AHU_R_118 = 8292,
-        BPMAK_AHU_L_119 = 8301,
-        BPMAK_AHU_R_119 = 8302,
-        BP_AHU_L_1_120 = 8311,
-        BP_AHU_L_2_120 = 8312,
-        BP_AHU_R_120 = 8313,
-        DS_OFFICE_121 = 8320,
-        DS_AHU_L_121 = 8321,
-        DS_AHU_R_121 = 8322,
-        BP3_OFFICE_122 = 8330,
-        BP3_AHU_L_122 = 8331,
-        BP3_AHU_R_122 = 8332,
-        KANS5_OFFICE_123 = 8340,
-        KANS5_AHU_R1_123 = 8341,
-        KANS5_AHU_L1_123 = 8342,
-        KANS5_AHU_R2_123 = 8343,
-        KANS5_AHU_L2_123 = 8344,
-        CITY_AHU_L_124 = 8351,
-        CITY_AHU_R_124 = 8352,
-        ART_OFFICE_125 = 8360,
-        ART_AHU_L_125 = 8361,
-        ART_AHU_R_125 = 8362,
-        TER_OFFICE_126 = 8370,
-        TER_AHU_L_126 = 8371,
-        TER_AHU_R_126 = 8372,
-        MH_AHU_L_127 = 8381,
-        MH_AHU_R_127 = 8383,
-        SH_AHU_R_128 = 8392,
-        SYS_OFFICE_129 = 8400,
-        SYS_AHU_R_129 = 8402,
-        WON_AHU_L_130 = 8411,
-        WON_AHU_R_130 = 8412,
-        DCH_OFFICE_131 = 8420,
-        DCH_AHU_R_131 = 8422,
-        DM_OFFICE_132 = 8430,
-        DM_AHU_L_132 = 8431,
-        COMPASS_OFFICE_133 = 1013,
-        TECHNO_OFFICE_134 = 1023,
-        KNOWLEDGE_ZONE_OFFICE_135 = 1033,
-        INCHEON_UNIV_AHU_L_136 = 1041,
-        INCHEON_UNIV_OFFICE_136 = 1043,
-        CENTRAL_OFFICE_137 = 1053,
-        INTER_BUSOFFICE_138 = 1063,
-        MOON_LIGHT_OFFICE_139 = 1931
-    }
-
     enum eStationNum
     {
         GY_MECH_110 =               110,
