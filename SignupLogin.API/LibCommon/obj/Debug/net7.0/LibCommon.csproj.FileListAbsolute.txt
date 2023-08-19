@@ -1,0 +1,12 @@
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.csproj.AssemblyReference.cache
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.AssemblyInfoInputs.cache
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.AssemblyInfo.cs
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.csproj.CoreCompileInputs.cache
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\bin\Debug\net7.0\LibCommon.deps.json
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\bin\Debug\net7.0\LibCommon.dll
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\bin\Debug\net7.0\LibCommon.pdb
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.dll
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\refint\LibCommon.dll
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\LibCommon.pdb
+D:\Dasturlash\Udemy\Dashboard\SignupLogin.API\LibCommon\obj\Debug\net7.0\ref\LibCommon.dll

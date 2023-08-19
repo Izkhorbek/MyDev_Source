@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BSdZGZUM6P2n8OaL6hZxG9H++tGLJYtm2aNH0rACK9Q=",
+  "Source": "SignupLogin.API",
+  "BasePath": "_content/SignupLogin.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
